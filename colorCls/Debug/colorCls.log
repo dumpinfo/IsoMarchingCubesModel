@@ -1,0 +1,698 @@
+﻿  Main2.cpp
+f:\1\find_regions\123\colorcls\c24bitmap.h(192): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\c24bitmap.h(193): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\c24bitmap.h(194): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\c24bitmap.h(195): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\c24bitmap.h(387): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\c24bitmap.h(388): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\c24bitmap.h(391): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\c24bitmap.h(392): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\c24bitmap.h(407): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\c24bitmap.h(408): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\c24bitmap.h(411): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\c24bitmap.h(412): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\c24bitmap.h(490): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\c24bitmap.h(502): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\c256bitmap.h(89): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\c256bitmap.h(100): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(204): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(221): warning C4101: “i”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(281): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(408): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(409): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(387): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(384): warning C4101: “j”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(432): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(434): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(437): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(438): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(446): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(467): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(465): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(484): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(486): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(488): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(489): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(490): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(492): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(518): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(525): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(526): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mregion.h(513): warning C4101: “val”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\util\imgscale.h(92): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\imgscale.h(93): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\imgscale.h(86): warning C4101: “t”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\util\hzmerge.h(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\util\hzmerge.h(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\util\hzmerge.h(247): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\hzmerge.h(248): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\hzmerge.h(249): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\hzmerge.h(292): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\hzmerge.h(293): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\hzmerge.h(294): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\hzmerge.h(338): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\util\hzmerge.h(377): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\hzmerge.h(378): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\hzmerge.h(379): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(90): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(96): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(99): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(116): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(117): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(118): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(123): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(124): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(151): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(153): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(156): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(157): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(194): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(196): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(199): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(200): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(185): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(249): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(250): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(256): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(287): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(288): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(227): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\util\storeregion.h(224): warning C4101: “j”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\regionfill.h(62): warning C4244: “=”: 从“const int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regionfill.h(63): warning C4244: “=”: 从“const int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regionfill.h(72): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regionfill.h(73): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regionfill.h(79): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regionfill.h(80): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regionfill.h(89): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regionfill.h(90): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regionfill.h(99): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regionfill.h(100): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regionfill.h(109): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regionfill.h(110): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regionfill.h(139): warning C4805: “==”: 在操作中将类型“char”与类型“bool”混合不安全
+f:\1\find_regions\123\colorcls\mserregion\mser\regionslt.h(69): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regionslt.h(73): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regionslt.h(78): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\dumpmesr.h(47): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\mser\dumpmesr.h(73): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\dumpmesr.h(88): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\dumpmesr.h(90): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\dumpmesr.h(91): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\dumpmesr.h(83): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+f:\1\find_regions\123\colorcls\mserregion\mser\dumpmesr.h(94): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+f:\1\find_regions\123\colorcls\mserregion\mser\dumpmesr.h(123): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\dumpmesr.h(124): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\dumpmesr.h(144): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\rgreduction.h(20): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\rgreduction.h(125): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\rgreduction.h(177): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\rgreduction.h(179): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\rgreduction.h(148): warning C4101: “Prev”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\rgreduction.h(278): warning C4101: “Pt”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\rgreduction.h(277): warning C4101: “i”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\region.h(65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\region.h(66): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\region.h(68): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\region.h(70): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\region.h(71): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\region.h(61): warning C4101: “MaxAdu”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\region.h(59): warning C4101: “rv”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\region.h(164): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\region.h(178): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\region.h(390): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\msertxtregion.h(25): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\msertxtregion.h(20): warning C4101: “t”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\msertxtregion.h(115): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\msertxtregion.h(119): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\msertxtregion.h(227): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\msertxtregion.h(235): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\msertxtregion.h(267): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\msertxtregion.h(268): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(36): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(38): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(43): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(44): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(183): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(188): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(202): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(220): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(226): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(240): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(282): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(291): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(292): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(304): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(303): warning C4101: “j”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(362): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(364): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(393): warning C4101: “j”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(393): warning C4101: “i”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(426): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(429): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(432): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(439): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(447): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(448): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(451): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(453): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(454): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(466): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(468): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(469): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(482): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(486): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(513): warning C4838: 从“double”转换到“float”需要收缩转换
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(513): warning C4305: “初始化”: 从“double”到“float”截断
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(518): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(530): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(553): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(568): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(570): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(514): warning C4101: “j”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(582): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(598): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(599): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(603): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(609): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(610): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(616): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(617): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(580): warning C4101: “j”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(127): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(134): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(137): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(138): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(207): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(218): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(251): warning C4018: “>”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(252): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(255): warning C4018: “>”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(283): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(304): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(310): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(311): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(314): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(317): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(318): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(338): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(342): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(359): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(361): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(362): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(363): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(364): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(365): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(367): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(370): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(371): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\tracebound.h(373): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\convexhull.h(205): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\convexhull.h(206): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\convexhull.h(224): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\convexhull.h(225): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(18): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(45): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(47): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(61): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(63): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(38): warning C4101: “v3”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(36): warning C4101: “i”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(91): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(101): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(86): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(141): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(155): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(156): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(160): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(161): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(163): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(164): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(169): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(204): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(222): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objfeature.h(241): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(70): warning C4101: “j”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(90): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(96): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(101): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(109): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(110): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(119): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(171): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(172): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(203): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(216): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(282): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(319): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(324): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(327): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(328): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(331): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(332): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(20): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(24): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(27): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(28): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(48): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(51): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(78): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(84): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(85): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(88): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(91): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(92): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(125): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(129): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(144): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(146): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(147): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(148): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(149): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(150): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(53): warning C4101: “y”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\objcontour.h(53): warning C4101: “x”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\paulslib.h(14): warning C4005: “ABS”: 宏重定义
+  f:\1\find_regions\123\colorcls\mserregion\mser\objstrok.h(9): note: 参见“ABS”的前一个定义
+f:\1\find_regions\123\colorcls\mserregion\mser\paulslib.h(2539): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: 参见“fscanf”的声明
+f:\1\find_regions\123\colorcls\mserregion\mser\paulslib.h(2968): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\mser\paulslib.h(3513): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\paulslib.h(6470): warning C4244: “=”: 从“float”转换到“short”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(59): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(69): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(71): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(66): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(75): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(97): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(109): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(120): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(125): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(129): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(133): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(134): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(135): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(136): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(138): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(139): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(140): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(141): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(102): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(167): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(172): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(174): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(183): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(186): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(189): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(164): warning C4101: “j”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(206): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(261): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(278): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(279): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(280): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(281): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(283): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(284): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(285): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(286): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(299): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(327): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(328): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(368): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(371): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(370): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(378): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(377): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(400): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(433): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(442): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(444): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(455): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(458): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(461): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(466): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(429): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(498): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(504): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(506): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(508): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(524): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(529): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(531): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\mser\timecnt.h(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+f:\1\find_regions\123\colorcls\mserregion\mser\timecnt.h(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+f:\1\find_regions\123\colorcls\mserregion\mser\timecnt.h(56): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(11): warning C4005: “MIN”: 宏重定义
+  f:\1\find_regions\123\colorcls\mserregion\mser\paulslib.h(16): note: 参见“MIN”的前一个定义
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(12): warning C4005: “MAX”: 宏重定义
+  f:\1\find_regions\123\colorcls\mserregion\mser\paulslib.h(19): note: 参见“MAX”的前一个定义
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(14): warning C4005: “Loopi”: 宏重定义
+  f:\1\find_regions\123\colorcls\c24bitmap.h(12): note: 参见“Loopi”的前一个定义
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(30): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(167): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(192): warning C4101: “nH”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(192): warning C4101: “nW”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(193): warning C4101: “rRect”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(241): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(244): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(270): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(272): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(277): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(283): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(324): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(323): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(374): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(392): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(424): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(440): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(459): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(472): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(546): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(551): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(552): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(562): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(579): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(586): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(594): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(629): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(677): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(680): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(681): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(685): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(686): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(693): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(735): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(740): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(742): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(752): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(817): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(781): warning C4101: “j”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(962): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(926): warning C4101: “j”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1127): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1133): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1169): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1194): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1201): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1221): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1233): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1271): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1275): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1279): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1286): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1294): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1309): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1340): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1341): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1347): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\mktextchain.h(1379): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\voronoi.h(37): warning C4005: “M_PI”: 宏重定义
+  f:\1\find_regions\123\colorcls\mserregion\mser\mser.h(18): note: 参见“M_PI”的前一个定义
+f:\1\find_regions\123\colorcls\mserregion\group\voronoi.h(501): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\voronoi.h(502): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\voronoi.h(526): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\voronoi.h(552): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\voronoi.h(616): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+f:\1\find_regions\123\colorcls\mserregion\group\voronoi.h(744): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\voronoi.h(1267): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\fastmst.h(83): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\fastmst.h(91): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\fastmst.h(106): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\fastmst.h(221): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\fastmst.h(227): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\fastmst.h(219): warning C4101: “Idx1”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\group\fastmst.h(217): warning C4101: “str1”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\group\fastmst.h(215): warning C4101: “Buff”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\group\fastmst.h(217): warning C4101: “str2”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\group\fastmst.h(219): warning C4101: “Idx3”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(71): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(79): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(80): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(81): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(82): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(92): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(105): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(113): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(114): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(117): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(124): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(125): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(128): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(130): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(136): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(137): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(156): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(247): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(248): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(263): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(359): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(371): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(373): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(376): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(377): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(382): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(390): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(398): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(401): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(402): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(493): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(556): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(564): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(548): warning C4101: “j”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(593): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(594): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(612): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(610): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(631): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(634): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(635): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(636): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(637): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(638): warning C4244: “=”: 从“float”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(641): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(654): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(655): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(687): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(693): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(703): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(702): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(630): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(640): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(685): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(741): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getrectrotangle.h(44): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getrectrotangle.h(73): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getrectrotangle.h(104): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getrectrotangle.h(129): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\getrectrotangle.h(135): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\getrectrotangle.h(136): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\gridsearch.h(35): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\gridsearch.h(36): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\gridsearch.h(45): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\gridsearch.h(76): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\gridsearch.h(77): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\gridsearch.h(93): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\hough.h(5): warning C4005: “M_PI”: 宏重定义
+  f:\1\find_regions\123\colorcls\mserregion\group\voronoi.h(37): note: 参见“M_PI”的前一个定义
+f:\1\find_regions\123\colorcls\mserregion\group\hough.h(22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\hough.h(25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\hough.h(40): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\hough.h(65): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\hough.h(73): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\hough.h(72): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\mserregion\group\rrectoperate.h(62): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\rrectoperate.h(94): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\rrectoperate.h(100): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\rrectoperate.h(137): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\rrectoperate.h(160): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\rrectoperate.h(175): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\rrectoperate.h(191): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\rrectoperate.h(207): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\rrectoperate.h(222): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(47): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(68): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(93): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(95): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(99): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(98): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(139): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(157): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(166): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(167): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(174): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(184): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(186): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(202): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\linecutbox.h(150): warning C4101: “j”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(16): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(136): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(189): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(212): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(213): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(287): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(288): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(289): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(344): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(345): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(346): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(371): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(381): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(358): warning C4101: “j”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(402): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(414): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(416): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(419): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(423): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(422): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(429): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(432): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(433): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(436): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(439): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(443): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(442): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(458): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(476): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(478): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(482): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(484): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(492): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(495): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(498): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(503): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\meshop.h(466): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+f:\1\find_regions\123\colorcls\mserregion\group\dbgregionlk.h(36): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\dbgregionlk.h(49): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\dbgregionlk.h(51): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\dbgregionlk.h(54): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\dbgregionlk.h(55): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\dbgregionlk.h(69): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\dbgregionlk.h(77): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\dbgregionlk.h(80): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\dbgregionlk.h(81): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\regionvorolink.h(20): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\regionvorolink.h(27): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\regionvorolink.h(35): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\regionvorolink.h(37): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\regionvorolink.h(50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\regionvorolink.h(49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\regionvorolink.h(55): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\regionvorolink.h(57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\regionvorolink.h(84): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\regionvorolink.h(89): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\regionvorolink.h(90): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\regionvorolink.h(97): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\regionvorolink.h(116): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\testfun.h(27): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\testfun.h(49): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\testfun.h(57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\testfun.h(62): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\group\testfun.h(64): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\testfun.h(74): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\testfun.h(79): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\mserregion\group\testfun.h(53): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+f:\1\find_regions\123\colorcls\mserregion\group\testfun.h(47): warning C4101: “t”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\genmser.h(59): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(72): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(75): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\genmser.h(57): warning C4101: “j”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\genmser.h(109): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(130): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(133): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(162): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(163): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(160): warning C4101: “t”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\genmser.h(299): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(316): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(350): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(384): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(388): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\genmser.h(389): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\genmser.h(395): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(397): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(410): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\genmser.h(411): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\genmser.h(453): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(470): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(532): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(547): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(550): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\genmser.h(551): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\genmser.h(558): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\genmser.h(591): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(594): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(588): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\1\find_regions\123\colorcls\genmser.h(426): warning C4101: “PicHeight”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\genmser.h(426): warning C4101: “PicWidth”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\main2.cpp(82): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\main2.cpp(88): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\main2.cpp(91): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\main2.cpp(90): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\main2.cpp(94): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\main2.cpp(95): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\1\find_regions\123\colorcls\main2.cpp(105): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\main2.cpp(174): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+f:\1\find_regions\123\colorcls\main2.cpp(221): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\main2.cpp(232): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\main2.cpp(234): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\1\find_regions\123\colorcls\main2.cpp(188): warning C4101: “PicHeight”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\main2.cpp(188): warning C4101: “PicWidth”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\main2.cpp(129): warning C4101: “t”: 未引用的局部变量
+f:\1\find_regions\123\colorcls\mserregion\group\rrectoperate.h(25): warning C4018: “<”: 有符号/无符号不匹配
+  f:\1\find_regions\123\colorcls\mserregion\group\rrectoperate.h(125): note: 参见对正在编译的函数 模板 实例化“double GetVectorMeanStdev<double>(std::vector<double,std::allocator<_Ty>> &,double &,double &,double &,double &,double &)”的引用
+          with
+          [
+              _Ty=double
+          ]
+f:\1\find_regions\123\colorcls\mserregion\group\rrectoperate.h(42): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\genmser.h(194): warning C4018: “<”: 有符号/无符号不匹配
+  f:\1\find_regions\123\colorcls\genmser.h(310): note: 参见对正在编译的函数 模板 实例化“double GetVectorMeanStdev_<double>(std::vector<double,std::allocator<_Ty>> &,double &,double &,double &,double &,double &)”的引用
+          with
+          [
+              _Ty=double
+          ]
+f:\1\find_regions\123\colorcls\genmser.h(211): warning C4018: “<”: 有符号/无符号不匹配
+f:\1\find_regions\123\colorcls\mserregion\mser\region.h(79): warning C4700: 使用了未初始化的局部变量“v_flux”
+f:\1\find_regions\123\colorcls\mserregion\mser\msquare.h(335): warning C4715: “MatchSquare::GetPointIdx”: 不是所有的控件路径都返回值
+f:\1\find_regions\123\colorcls\mserregion\mser\regiondisp.h(61): warning C4700: 使用了未初始化的局部变量“i”
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(585): warning C4700: 使用了未初始化的局部变量“i”
+f:\1\find_regions\123\colorcls\mserregion\group\getpointslink.h(586): warning C4700: 使用了未初始化的局部变量“j”
+  colorCls.vcxproj -> F:\1\find_regions\123\colorCls\Debug\colorCls.exe
